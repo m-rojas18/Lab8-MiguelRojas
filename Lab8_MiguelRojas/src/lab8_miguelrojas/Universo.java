@@ -1,4 +1,4 @@
-package lab6_miguelrojas;
+package lab8_miguelrojas;
 
 import java.io.BufferedWriter;
 import java.io.File;

@@ -1,4 +1,4 @@
-package lab6_miguelrojas;
+package lab8_miguelrojas;
 
 public class Seres_Vivos {
 

@@ -1,4 +1,4 @@
-package lab6_miguelrojas;
+package lab8_miguelrojas;
 
 import javax.swing.JDialog;
 import javax.swing.JFrame;

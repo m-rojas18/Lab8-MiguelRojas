@@ -1,4 +1,4 @@
-package lab6_miguelrojas;
+package lab8_miguelrojas;
 
 import java.awt.TextArea;
 import java.util.ArrayList;
