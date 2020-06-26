@@ -1,0 +1,1 @@
+Tony Stark|9|40|Tierra|Humano|Peter Parker|10|15|Tierra|Humano|Groot|8|66|Unknown|Amanto|Thanos|10|30|Exogul|Amanto|Chris Evans|7|34|Marte|Amanto|Gamora|5|27|Exogul|Humano|Rocket|4|20|Zorro|Humano|Thor|10|500|Midgar|Humano|Hulk|10|40|Tierra|Amanto|Elon Musk|1|50|Tesla|Humano|
